@@ -1,0 +1,25 @@
+{
+  "Heading": {
+    "firstname_lastname": "First Last",
+    "email_first@email_service": "email@service.com",
+    "www.linkedinprofile.com": "https://www.linkedin.com/",
+    "mobile_number": "a-b-c-d",
+    "github_profile": "https://github.com/"
+  },
+  "Education": {
+    "university": "University",
+    "location": "City, State",
+    "degree1": "B.S., Degree;",
+    "degree2": "B.S., Degree;",
+    "date1": "mmm. yyyy -- mmm. yyyy",
+    "date2": "mmm yyyy -- mmm. yyyy",
+    "gpa1": "1.23",
+    "gpa2": "1.23"
+  },
+  "Experience": {
+    "company1": "Company Name",
+    "company1_location": "City, State",
+    "position1": "Job Title",
+    "company1_date": "mmm. yyyy -- mmm. yyyy"
+  }
+}
